@@ -16,7 +16,7 @@
 |          문제         |  레벨 |  
 | :-------------------: | :----: |
 |  [괄호 추가하기](https://www.acmicpc.net/problem/16637)   |  G4   |
-|   [파이프 옮기기1](https://www.acmicpc.net/problem/17070   |  G5   |
+|   [파이프 옮기기1](https://www.acmicpc.net/problem/17070)   |  G5   |
 |  [캐슬 디펜스](https://www.acmicpc.net/problem/17135)  |  G3   |
 | [색종이 붙이기](https://www.acmicpc.net/problem/17136) |  G2   |
 |   [⚾](https://www.acmicpc.net/problem/17281)   |  G4   |
