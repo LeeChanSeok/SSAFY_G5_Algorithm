@@ -36,14 +36,14 @@ git commit -m "[BOJ] Hello World / 브론즈5 " -m "https://www.acmicpc.net/prob
 <details markdown="1">
 <summary><strong>📄 삼성 A형 기출 문제 (백준)</summary></strong>
 
-|          문제         |  레벨 |  
-| :-------------------: | :----: |
-|  [괄호 추가하기](https://www.acmicpc.net/problem/16637)   |  G4   |
-|   [파이프 옮기기1](https://www.acmicpc.net/problem/17070)   |  G5   |
-|  [캐슬 디펜스](https://www.acmicpc.net/problem/17135)  |  G3   |
-| [색종이 붙이기](https://www.acmicpc.net/problem/17136) |  G2   |
-|   [⚾](https://www.acmicpc.net/problem/17281)   |  G4   |
-| [인터프리터](https://www.acmicpc.net/problem/3954) |  G1   |
-|   [배열 돌리기 4](https://www.acmicpc.net/problem/17406)  |  G4   |
-|   [게리맨더링](https://www.acmicpc.net/problem/17471)  |  G4   |
-|   [다리 만들기 2](https://www.acmicpc.net/problem/17472)  |  G1   |
+|          문제         |  레벨 |  유형  |
+| :-------------------: | :----: | :----: |
+|  [괄호 추가하기](https://www.acmicpc.net/problem/16637)   |  G4   | Brute force |
+|   [파이프 옮기기1](https://www.acmicpc.net/problem/17070)   |  G5   | DP, Graphs |
+|  [캐슬 디펜스](https://www.acmicpc.net/problem/17135)  |  G3   | Implementation, Brute force, simulation |
+| [색종이 붙이기](https://www.acmicpc.net/problem/17136) |  G2   | Brute force, back tracking |
+|   [⚾](https://www.acmicpc.net/problem/17281)   |  G4   |  |
+| [인터프리터](https://www.acmicpc.net/problem/3954) |  G1   |  |
+|   [배열 돌리기 4](https://www.acmicpc.net/problem/17406)  |  G4   |  |
+|   [게리맨더링](https://www.acmicpc.net/problem/17471)  |  G4   |  |
+|   [다리 만들기 2](https://www.acmicpc.net/problem/17472)  |  G1   |  |
