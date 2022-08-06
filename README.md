@@ -37,7 +37,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 <summary><strong>📄 삼성 A형 기출 문제 (백준)</summary></strong>
 
 |          문제         |  레벨 |  유형  |
-| :-------------------: | :----: | :----: |
+| :-------------------: | :----: | :---------: |
 |  [괄호 추가하기](https://www.acmicpc.net/problem/16637)   |  G4   | Brute Force |
 |   [파이프 옮기기1](https://www.acmicpc.net/problem/17070)   |  G5   | DP, Graph |
 |  [캐슬 디펜스](https://www.acmicpc.net/problem/17135)  |  G3   | Implement, Brute Force, Simulatcion |
