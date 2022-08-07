@@ -6,20 +6,18 @@ input=sys.stdin.readline
 
 def bfs(distr):
     q=deque()
-    q.append((distr[0],0))
+    q.append(distr[0])
     visited = [0] * (N + 1)
     visited[distr[0]]=1
 
     while q:
-        cur, hop=q.popleft()
-        if hop == len(distr)-1:
-            break
+        cur=q.popleft()
         if cur in dic:  # 인접한 노드가 아예 없는 경우 따로 처리해줌
             for next in dic[cur]:
                 # 인접한 노드 중 distr에 포함된 노드만 탑색
                 if visited[next] == 0 and next in distr:
                     visited[next]=1
-                    q.append((next,hop+1))
+                    q.append(next)
 
     for n in distr:
         if visited[n] == 0: #distr내에서 하나라도 방문되지 않은 노드가 존재한다면
