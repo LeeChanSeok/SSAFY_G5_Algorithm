@@ -35,7 +35,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 
 ## **💻 문제 목록**
 <details markdown="1">
-<summary><strong>📄 [삼성 A형 기출 문제 (백준)](https://www.acmicpc.net/workbook/view/2771)</summary></strong>
+<summary><strong>📄 삼성 A형 기출 문제 (백준)</summary></strong>
 
 |          문제         |  레벨 |  유형  |
 | :-------------------: | :----: | :---------: |
@@ -52,7 +52,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 
 
 <details markdown="1">
-<summary><strong>📄 [알고리즘 중급 1/3 611 - BFS(연습) (백준)](https://www.acmicpc.net/workbook/view/3976)</summary></strong>
+<summary><strong>📄 알고리즘 중급 1/3. 611 - BFS(연습) (백준)</summary></strong>
 
 |          문제         |  레벨 |  유형  |
 | :-------------------: | :----: | :---------: |
@@ -62,7 +62,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 </details>
 
 <details markdown="1">
-<summary><strong>📄 [알고리즘 중급 2/3 612 - BFS(연습 2 (백준)](https://www.acmicpc.net/workbook/view/3990)</summary></strong>
+<summary><strong>📄 알고리즘 중급 2/3. 612 - BFS(연습2) (백준)</summary></strong>
 
 |          문제         |  레벨 |  유형  |
 | :-------------------: | :----: | :---------: |
