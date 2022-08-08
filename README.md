@@ -35,6 +35,9 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 
 ## **💻 문제 목록**
 <details markdown="1">
+<summary><strong>📄 백준</summary></strong>
+
+<details markdown="1">
 <summary><strong>📄 삼성 A형 기출 문제 (백준)</summary></strong>
 
 |          문제         |  레벨 |  유형  |
