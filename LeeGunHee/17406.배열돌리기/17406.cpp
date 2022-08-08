@@ -1,48 +1,32 @@
-#include <cstring>
 #include <iostream>
 #include <vector>
+#include <cstring>
 #include <algorithm>
+
 using namespace std;
 
 int n, m, k;
 
-int a[51][51];
-int cop[51][51];
+def struct {
+	int r, c, s;
+}rotate;
+
+int dy[4] = { 0,1,0,-1 };
+int dx[4] = { 1,0,-1,0 };
+
+int arr[51][51];
+int copy_arr[51][51];
 bool check[51][51];
 
-struct g {
-	int r, c, s;
-};
+int answer = -987654321;
 
-const int dy[4] = { 0,1,0,-1 };
-const int dx[4] = { 1,0,-1,0 };
-
-int ans = -1;
-
-
-void rotate(int bef, int y, int x, int d, int ran, int ini)
-{
-	if (check[y][x]) return;
-
-	int temp = cop[y][x];
-	cop[y][x] = bef;
-	int ny = y + dy[d];
-	int nx = x + dx[d];
-	bef = temp;
-
-	check[y][x] = true;
-
-	if (ran == 0) {
-		int ny = y + dy[d + 1];
-		int nx = x + dx[d + 1];
-		return rotate(bef, ny, nx, d + 1, ini - 1, ini);
-	}
-
-	return rotate(bef, ny, nx, d, ran - 1, ini);
+void init() {
+	for (int i = 0; i < n; ++i)
+		for (int j = 0; j < m; ++j)
+			copy[i][j] = arr[i][j];
 }
 
-void solve(vector<int> order, vector<g> v)
-{
+void solve(vector<int> order, vector<rotate> v) {
 	for (int i = 0; i < order.size(); ++i)
 	{
 		int r = v[order[i]].r;
@@ -51,42 +35,47 @@ void solve(vector<int> order, vector<g> v)
 
 		for (int j = -s; j < 0; ++j) {
 			memset(check, 0, sizeof(check));
-			rotate(cop[r + j + 1][c + j], r + j, c + j, 0, 2 * (-j), 2 * (-j));
+			rotate(copy[r + j + 1][c + j], r + j, c + j, 0, 2 * (-j), 2 * (-j));
 		}
-		/*cout << endl;
-		for (int i = 0; i < n; ++i) {
-			for (int j = 0; j < m; ++j)
-				cout << cop[i][j] << " ";
-			cout << "\n";
-		}*/
 	}
 
 	int ret = -1;
-	// 최소값 검사
+
 	for (int i = 0; i < n; ++i) {
 		int sum = 0;
 		for (int j = 0; j < m; ++j)
 		{
-			sum += cop[i][j];
+			sum += copy[i][j];
 		}
 		if (ret == -1 || ret > sum)
 			ret = sum;
 	}
-	if (ans == -1 || ans > ret)
-		ans = ret;
+	if (answer == -1 || answer > ret)
+		answer = ret;
 
 	return;
 
 }
 
+void rotate(int before, int y, int x, int d, int nxt, int ini) {
+	if (check[y][x]) return;
 
-void init()
-{
-	for (int i = 0; i < n; ++i)
-		for (int j = 0; j < m; ++j)
-			cop[i][j] = a[i][j];
+	int temp = copy[y][x];
+	copy[y][x] = before;
+	int ny = y + dy[d];
+	int nx = x + dx[d];
+	before = temp;
+
+	check[y][x] = true;
+
+	if (nxt == 0) {
+		int ny = y + dy[d + 1];
+		int nx = x + dx[d + 1];
+		return rotate(before, ny, nx, d + 1, ini - 1, ini);
+	}
+
+	return rotate(before, ny, nx, d, nxt - 1, ini);
 }
-
 
 int main()
 {
@@ -94,10 +83,10 @@ int main()
 
 	for (int i = 0; i < n; ++i)
 		for (int j = 0; j < m; ++j) {
-			cin >> a[i][j];
+			cin >> arr[i][j];
 		}
 
-	vector<g> v(k);
+	vector<rotate> v(k);
 
 	for (int i = 0; i < k; ++i) {
 		int r, c, s;
@@ -119,6 +108,6 @@ int main()
 
 	} while (next_permutation(order.begin(), order.end()));
 
-	cout << ans << "\n";
+	cout << answer << "\n";
 	return 0;
 }
