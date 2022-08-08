@@ -4,6 +4,7 @@
 #include<algorithm>
 #include<math.h>
 #include<queue>
+
 using namespace std;
  
 int n;
@@ -13,9 +14,8 @@ int color[11];
 int red, blue;
 int redSum, blueSum;
 
-int ans = 987654321;
+int ans = 99999999;
  
-//연결선 정보
 vector <int> v[11];
  
 queue<int> q;
@@ -47,13 +47,11 @@ void bfs(int c) {
  
 void dfs(int cnt, int r, int b) {
     if (cnt == n+1) {
-        //실행 할 곳
         red = 0; blue = 0;
         redSum = 0; blueSum = 0;
         memset(check, 0, sizeof(check));
         bool rf = false, bf = false;
- 
-        // 레드진영, 블루진영 각자 끼리끼리 다 연결되었는지 확인, 및 인원체크
+        
         for (int i = 1; i <= n; i++) {
             if (rf == 1 && bf == 1) break;
             if (color[i] == 1 && check[i]==0 && rf==0) {
@@ -69,9 +67,7 @@ void dfs(int cnt, int r, int b) {
                 bfs(2);
             }
         }
-        
- 
-        //레드진영, 블루진영 연결되었는지 확인
+
         if (red != r || blue != b) 
 	return;
         ans = min(ans, abs(redSum - blueSum));
@@ -89,8 +85,7 @@ void dfs(int cnt, int r, int b) {
 int main() {
     ios_base::sync_with_stdio(0);
     cin.tie(0); cout.tie(0);
- 
-    // 1. input
+
     cin >> n;
     for (int i = 1; i <= n; i++) cin >> arr[i];
  
@@ -104,7 +99,8 @@ int main() {
     }
  
     dfs(1, 0, 0);
-    if (ans == 987987987) cout << -1 << "\n";
+    if (ans == 987987987) 
+		cout << -1 << "\n";
     else cout << ans << "\n"; 
  
     return 0;
