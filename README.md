@@ -35,9 +35,6 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 
 ## **💻 문제 목록**
 <details markdown="1">
-<summary><strong>📄 백준</summary></strong>
-
-<details markdown="1">
 <summary><strong>📄 삼성 A형 기출 문제 (백준)</summary></strong>
 
 |          문제         |  레벨 |  유형  |
@@ -51,6 +48,8 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |   [배열 돌리기 4](https://www.acmicpc.net/problem/17406)  |  G4   | Implement, Brute Force, Back Tracking |
 |   [게리맨더링](https://www.acmicpc.net/problem/17471)  |  G4   | Math, Graph, Brute Force, BFS, DFS, 조합론 |
 |   [다리 만들기 2](https://www.acmicpc.net/problem/17472)  |  G1   | Implement, Graph, Brute Force, BFS, DFS, MST  |
+</details>
+
 
 <details markdown="1">
 <summary><strong>📄 알고리즘 중급 1/3 (백준)</summary></strong>
@@ -60,6 +59,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |  [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)   |  G4   |  |
 |   [레이저 통신](https://www.acmicpc.net/problem/6087)   |  G3   | |
 |  [소수 경로](https://www.acmicpc.net/problem/1963)  |  G4   |  |
+</details>
 
 <details markdown="1">
 <summary><strong>📄 알고리즘 중급 2/3 (백준)</summary></strong>
@@ -67,3 +67,4 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |          문제         |  레벨 |  유형  |
 | :-------------------: | :----: | :---------: |
 |  [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)   |  G3   |  |
+</details>
