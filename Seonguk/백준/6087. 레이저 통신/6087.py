@@ -24,17 +24,17 @@ q=deque()
 for i in range(4):
     nx, ny=sx+dx[i], sy+dy[i]
     if 0<=nx<N and 0<=ny<M and arr[nx][ny] == '.':
-        q.append((nx,ny,i,0))   #x, y, 방향, 거울갯수
+        q.append((nx,ny,i,0))   #x, y, 방향, 거울 개수
 
 while q:
     x,y,dir,cnt=q.popleft()
     for i in range(4):
         nx, ny=x+dx[i], y+dy[i]
-        ncnt=cnt+1 if dir != i else cnt #이전 방향과 탐색하려는 방향이 일치하는지 체크
+        ncnt=cnt+1 if dir != i else cnt #방향이 다르면 거울개 수 + 1
 
-        #재방문하는 경우, nx,ny의 거울 갯수보다 작거나 같은 경우에만 방문
+        #재방문하는 경우, nx,ny의 거울 개수보다 작거나 같은 경우에만 방문
         if 0<=nx<N and 0<=ny<M and arr[nx][ny] == '.' and mirrorNum[nx][ny] >= ncnt:
-            mirrorNum[nx][ny]=ncnt
+            mirrorNum[nx][ny]=ncnt  #더 적은 개수로 초기화
             q.append((nx,ny,i,ncnt))
 
 print(mirrorNum[ex][ey])
