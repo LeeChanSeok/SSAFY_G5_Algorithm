@@ -30,6 +30,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |:-:|:-:|:-:|:-:|:-:|
 |1주차(07.25~07.31)|[괄호 추가하기](https://www.acmicpc.net/problem/16637)|[파이프 옮기기1](https://www.acmicpc.net/problem/17070)|[캐슬 디펜스](https://www.acmicpc.net/problem/17135)|[색종이 붙이기](https://www.acmicpc.net/problem/17136)|
 |2주차(08.01~08.07)|[⚾](https://www.acmicpc.net/problem/17281)|[배열 돌리기 4](https://www.acmicpc.net/problem/17406)|[게리맨더링](https://www.acmicpc.net/problem/17471)|[다리 만들기 2](https://www.acmicpc.net/problem/17472)|
+|3주차(08.08~08.14)|[움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)|[레이저 통신](https://www.acmicpc.net/problem/6087)|[소수 경로](https://www.acmicpc.net/problem/1963)|[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)|
 
 
 ## **💻 문제 목록**
@@ -45,5 +46,25 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |   [⚾](https://www.acmicpc.net/problem/17281)   |  G4   | Implement, Brute Force |
 | [인터프리터](https://www.acmicpc.net/problem/3954) |  G1   | Implement, Data Structure, Simulatcion, Stack  |
 |   [배열 돌리기 4](https://www.acmicpc.net/problem/17406)  |  G4   | Implement, Brute Force, Back Tracking |
-|   [게리맨더링](https://www.acmicpc.net/problem/17471)  |  G4   | Math, Graph, Brute Force, BFS, DFS, 조합론 |
+|   [게리맨더링](https://www.acmicpc.net/problem/17471)  |  G4   | Math, Graph, Brute Force, BFS, DFS, Combinatorics |
 |   [다리 만들기 2](https://www.acmicpc.net/problem/17472)  |  G1   | Implement, Graph, Brute Force, BFS, DFS, MST  |
+</details>
+
+
+<details markdown="1">
+<summary><strong>📄 알고리즘 중급 1/3. 611 - BFS(연습) (백준)</summary></strong>
+
+|          문제         |  레벨 |  유형  |
+| :-------------------: | :----: | :---------: |
+|  [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)   |  G4   | Graph, BFS |
+|   [레이저 통신](https://www.acmicpc.net/problem/6087)   |  G3   |Graph, BFS, Dijkstra  |
+|  [소수 경로](https://www.acmicpc.net/problem/1963)  |  G4   | Math, Graph, Number theory , BFS, Prime, Sieve of Eratosthenes|
+</details>
+
+<details markdown="1">
+<summary><strong>📄 알고리즘 중급 2/3. 612 - BFS(연습2) (백준)</summary></strong>
+
+|          문제         |  레벨 |  유형  |
+| :-------------------: | :----: | :---------: |
+|  [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)   |  G3   | Graph, BFS |
+</details>
