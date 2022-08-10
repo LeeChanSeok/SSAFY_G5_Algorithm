@@ -66,5 +66,5 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 
 |          문제         |  레벨 |  유형  |
 | :-------------------: | :----: | :---------: |
-|  [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)   |  G3   |  |
+|  [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)   |  G3   | Graph, BFS |
 </details>
