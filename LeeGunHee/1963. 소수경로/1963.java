@@ -7,14 +7,44 @@ import java.util.Queue;
 import java.util.StringTokenizer;
  
 public class Main {
- 
-    public static int n, first, last;
- 
-    public static boolean[] prime = new boolean[10000];
- 
+    public static int n, first, last; 
+    public static boolean[] prime = new boolean[10000]; 
     public static int div[] = { 1000, 100, 10, 1 };
+    
+    public static void main(String[] args) throws NumberFormatException, IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st;
+        Scanner sc = new Scanner(System.in);
+        n = Integer.parseInt(br.readLine());
  
-    public static int BFS(int n) {
+        prime[0] = prime[1] = true;
+ 
+        for (int i = 2; i < 10000; i++) {
+            if (!prime[i]) {// 만약 prime[i]가 소수라면
+                for (int j = 2; j * i < 10000; j++) {
+                    prime[j * i] = true;
+                }
+            }
+        }
+ 
+        for (int k = 0; k < n; k++) {
+            st = new StringTokenizer(br.readLine());
+            first = Integer.parseInt(st.nextToken());
+            last = Integer.parseInt(st.nextToken());
+ 
+            int ans = BFS(first);
+            
+            if (ans != -1) {
+                System.out.println(ans);
+ 
+            } 
+            else {
+                System.out.println("Impossible");
+            } 
+        } 
+    } 
+ 
+     public static int BFS(int n) {
         int cnt = -1; 
         Queue<Integer> queue = new LinkedList<Integer>();
         boolean[] visited = new boolean[10000];// visited도 초기화
@@ -28,8 +58,7 @@ public class Main {
             for (int i = 0; i < size; i++) {
                 int node = queue.poll();
                 
-                if (node == last) {
- 
+                if (node == last) { 
                     return cnt;
                 }
                 
@@ -65,37 +94,4 @@ public class Main {
         } 
         return -1;
     }
- 
-    public static void main(String[] args) throws NumberFormatException, IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st;
-        Scanner sc = new Scanner(System.in);
-        n = Integer.parseInt(br.readLine());
- 
-        prime[0] = prime[1] = true;
- 
-        for (int i = 2; i < 10000; i++) {
-            if (!prime[i]) {// 만약 prime[i]가 소수라면
-                for (int j = 2; j * i < 10000; j++) {
-                    prime[j * i] = true;
-                }
-            }
-        }
- 
-        for (int k = 0; k < n; k++) {
-            st = new StringTokenizer(br.readLine());
-            first = Integer.parseInt(st.nextToken());
-            last = Integer.parseInt(st.nextToken());
- 
-            int ans = BFS(first);
-            
-            if (ans != -1) {
-                System.out.println(ans);
- 
-            } 
-            else {
-                System.out.println("Impossible");
-            } 
-        } 
-    } 
 }
