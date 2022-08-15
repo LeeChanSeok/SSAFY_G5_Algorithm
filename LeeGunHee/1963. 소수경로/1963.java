@@ -20,7 +20,7 @@ public class Main {
         prime[0] = prime[1] = true;
  
         for (int i = 2; i < 10000; i++) {
-            if (!prime[i]) {// 만약 prime[i]가 소수라면
+            if (!prime[i]) {
                 for (int j = 2; j * i < 10000; j++) {
                     prime[j * i] = true;
                 }
