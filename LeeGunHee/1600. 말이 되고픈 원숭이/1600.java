@@ -27,7 +27,7 @@ public class Main {
         H = Integer.parseInt(st.nextToken());
                
         map = new int[H][W];
-        visited = new boolean[H][W][31];
+        visited = new boolean[H][W][32];
         
         for(int r = 0; r < H; r++) {
         	st = new StringTokenizer(br.readLine());
