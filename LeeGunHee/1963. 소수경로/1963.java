@@ -44,7 +44,7 @@ public class Main {
      public static int BFS(int n) {
         int cnt = -1; 
         Queue<Integer> queue = new LinkedList<Integer>();
-        boolean[] visited = new boolean[10000];// visited도 초기화
+        boolean[] visited = new boolean[10000];
  
         queue.add(n);
         visited[n] = true;
