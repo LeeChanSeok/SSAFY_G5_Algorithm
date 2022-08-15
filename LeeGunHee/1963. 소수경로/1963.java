@@ -38,9 +38,6 @@ public class Main {
                 System.out.println(ans);
  
             } 
-            else {
-                System.out.println("Impossible");
-            } 
         } 
     } 
  
