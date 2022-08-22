@@ -31,7 +31,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |1주차(07.25~07.31)|[괄호 추가하기](https://www.acmicpc.net/problem/16637)|[파이프 옮기기1](https://www.acmicpc.net/problem/17070)|[캐슬 디펜스](https://www.acmicpc.net/problem/17135)|[색종이 붙이기](https://www.acmicpc.net/problem/17136)|
 |2주차(08.01~08.07)|[⚾](https://www.acmicpc.net/problem/17281)|[배열 돌리기 4](https://www.acmicpc.net/problem/17406)|[게리맨더링](https://www.acmicpc.net/problem/17471)|[다리 만들기 2](https://www.acmicpc.net/problem/17472)|
 |3주차(08.08~08.14)|[움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)|[레이저 통신](https://www.acmicpc.net/problem/6087)|[소수 경로](https://www.acmicpc.net/problem/1963)|[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)|
-|3주차(08.15~08.21)|[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)|[양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)|[파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)|[사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345)|
+|4주차(08.15~08.21)|[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)|[양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)|[파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)|[사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345)|
 
 
 ## **💻 문제 목록**
