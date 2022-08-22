@@ -13,9 +13,10 @@ def dfs(info, tree, idx, sheep, wolf, visitable):
     
     answer=max(answer, sheep)
     
-    cur_visitable=visitable[:]  # 리스트 복사
-    cur_visitable.remove(idx)   # 현재 노드 삭제
-    cur_visitable.extend(tree[idx]) # 자식 노드들 추가
+    # cur_vistiable에 다음에 방문할 수 있는 노드를 저장
+    cur_visitable=visitable[:]
+    cur_visitable.remove(idx)   # 현재 노드는 삭제
+    cur_visitable.extend(tree[idx]) # 후보에 자식 노드들 추가
 
     for v in cur_visitable:
         dfs(info, tree, v, sheep, wolf, cur_visitable)
