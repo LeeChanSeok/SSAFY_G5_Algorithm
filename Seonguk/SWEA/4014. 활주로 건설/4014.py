@@ -15,7 +15,7 @@ def check(row):
                     return False
                 visited[j]=1    # 활주로 건설 표시시
 
-    #르막 활주로 check
+    #오르막 활주로 check
     for i in range(len(row)-2, -1, -1):
         if row[i+1]-row[i] >= 2:
             return False
