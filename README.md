@@ -47,7 +47,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |  [캐슬 디펜스](https://www.acmicpc.net/problem/17135)  |  G3   | Implement, Brute Force, Simulatcion |
 | [색종이 붙이기](https://www.acmicpc.net/problem/17136) |  G2   | Brute Force, Back Tracking |
 |   [⚾](https://www.acmicpc.net/problem/17281)   |  G4   | Implement, Brute Force |
-| [인터프리터](https://www.acmicpc.net/problem/3954) |  G1   | Implement, Data Structure, Simulatcion, Stack  |
+| [인터프리터](https://www.acmicpc.net/problem/3954) |  G1   | Implement, Data Structure, Simulation, Stack  |
 |   [배열 돌리기 4](https://www.acmicpc.net/problem/17406)  |  G4   | Implement, Brute Force, Back Tracking |
 |   [게리맨더링](https://www.acmicpc.net/problem/17471)  |  G4   | Math, Graph, Brute Force, BFS, DFS, Combinatorics |
 |   [다리 만들기 2](https://www.acmicpc.net/problem/17472)  |  G1   | Implement, Graph, Brute Force, BFS, DFS, MST  |
@@ -77,8 +77,8 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 
 |          문제         |  레벨 |  유형  |
 | :-------------------: | :----: | :---------: |
-|  [미친 아두이노](https://www.acmicpc.net/problem/8972)   |  G4   |  |
-|  [스티커 붙이기](https://www.acmicpc.net/problem/18808)   |  G3   |  |
+|  [미친 아두이노](https://www.acmicpc.net/problem/8972)   |  G4   | Implement, Simulatcion |
+|  [스티커 붙이기](https://www.acmicpc.net/problem/18808)   |  G3   |Implement, Brute Force, Simulatcion |
 | [소가 길을 건너간 이유 6](https://www.acmicpc.net/problem/14466) |  G4   |  |
 | [치즈](https://www.acmicpc.net/problem/2638) |  G3   |  |
 </details>
