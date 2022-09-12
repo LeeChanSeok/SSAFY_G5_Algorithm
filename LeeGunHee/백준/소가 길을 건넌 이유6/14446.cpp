@@ -30,7 +30,7 @@ void bfs(int sy, int sx) {
 		que.pop();
 
 		for (int i = 0; i < 4; i++) {
-			if (arr[cy][cx][i] == 1) continue; //도로가 있는건 탐색 안해줄거야
+			if (arr[cy][cx][i] == 1) continue;
 			int ny = cy + y_ar[i];
 			int nx = cx + x_ar[i];
 
@@ -58,7 +58,7 @@ int main() {
 			int nr = r + y_ar[j];
 			int nc = c + x_ar[j];
 			if (nr == rr && nc == cc) {
-				arr[r][c][j] = 1; // 다리 생성
+				arr[r][c][j] = 1; 
 				arr[rr][cc][(j + 2)%4] = 1;
 			}
 		}
