@@ -80,10 +80,10 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 | :-------------------: | :----: | :---------: |
 |  [미친 아두이노](https://www.acmicpc.net/problem/8972)   |  G4   | Implement, Simulatcion |
 |  [스티커 붙이기](https://www.acmicpc.net/problem/18808)   |  G3   |Implement, Brute Force, Simulatcion |
-| [소가 길을 건너간 이유 6](https://www.acmicpc.net/problem/14466) |  G4   |  |
-| [치즈](https://www.acmicpc.net/problem/2638) |  G3   |  |
-| [우주 탐사선](https://www.acmicpc.net/problem/17182)| |
-| [컬러볼](https://www.acmicpc.net/problem/10800)| |
+| [소가 길을 건너간 이유 6](https://www.acmicpc.net/problem/14466) |  G4   | Graph, BFS, DFS |
+| [치즈](https://www.acmicpc.net/problem/2638) |  G3   | Implement, Graph, BFS, Simulatcion, DFS |
+| [우주 탐사선](https://www.acmicpc.net/problem/17182)| G4 | |
+| [컬러볼](https://www.acmicpc.net/problem/10800)| G3 | |
 </details>
 
 <details markdown="1">
