@@ -35,6 +35,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |5주차(08.22~08.28)|[등산로 조성](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq)|[활주로 건설](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH)|[줄기 세포배양](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo)|[벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)|
 |6주차(08.29~09.04)|[두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|[코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)|[미친 아두이노](https://www.acmicpc.net/problem/8972)|[스티커 붙이기](https://www.acmicpc.net/problem/18808)|
 |7주차(09.05~09.11)|[등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)|[행렬과 연산](https://school.programmers.co.kr/learn/courses/30/lessons/118670)|[소가 길을 건너간 이유 6](https://www.acmicpc.net/problem/14466)|[치즈](https://www.acmicpc.net/problem/2638)|
+|8주차(09.12~09.18)|[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|[합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)|[우주 탐사선](https://www.acmicpc.net/problem/17182)|[컬러볼](https://www.acmicpc.net/problem/10800)|
 
 ## **💻 문제 목록**
 <details markdown="1">
@@ -81,6 +82,8 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |  [스티커 붙이기](https://www.acmicpc.net/problem/18808)   |  G3   |Implement, Brute Force, Simulatcion |
 | [소가 길을 건너간 이유 6](https://www.acmicpc.net/problem/14466) |  G4   |  |
 | [치즈](https://www.acmicpc.net/problem/2638) |  G3   |  |
+| [우주 탐사선](https://www.acmicpc.net/problem/17182)| |
+| [컬러볼](https://www.acmicpc.net/problem/10800)| |
 </details>
 
 <details markdown="1">
@@ -103,6 +106,15 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 | [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)| Lv.3 | |
 | [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)| Lv.3 | |
 | [행렬과 연산](https://school.programmers.co.kr/learn/courses/30/lessons/118670)| Lv.4 | |
+</details>
+
+<details markdown="1">
+<summary><strong>📄 2021 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
+
+|          문제         |  레벨 |  유형  |
+| :-------------------: | :----: | :---------: |
+| [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)| Lv. 2 | |
+| [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)| Lv. 3  | |
 </details>
 
 <details markdown="1">
