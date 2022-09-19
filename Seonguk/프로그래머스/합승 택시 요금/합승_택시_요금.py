@@ -34,10 +34,7 @@ def solution(n, s, a, b, fares):
         dist[i][i]=0
         shortest_path(G, i, dist)
     
-    #s->a도착지점 + s->b도착지점
-    answer=dist[s][a]+dist[s][b]
     temp=float('inf')
-    
     #모든 중간지점을 돌면서 최솟값 갱신
     for i in range(1, n+1):
         if dist[s][i] == float('inf') or dist[i][a] == float('inf') or dist[i][b] == float('inf'):
