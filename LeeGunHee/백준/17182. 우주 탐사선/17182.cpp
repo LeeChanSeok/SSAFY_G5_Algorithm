@@ -7,13 +7,13 @@ int node, start, ans = 987654321;
 int arr[10][10];
 bool visit[10] = { false, };
 
-// DFS ½ÇÇà
+// DFS ì‹¤í–‰
 void dfs(int idx, int dist, int planet) {
-	// ÀÌ¹Ì Á¤´äº¸´Ù °Å¸®°¡ Ä¿¼­ µ¹ ÇÊ¿ä ¾øÀ½
+	// ì´ë¯¸ ì •ë‹µë³´ë‹¤ ê±°ë¦¬ê°€ ì»¤ì„œ ëŒ í•„ìš” ì—†ìŒ
 	if (ans < dist)
 		return;
 
-	// Çà¼º ¹æ¹®À» ´ÙÇß¾î¿ä
+	// í–‰ì„± ë°©ë¬¸ì„ ë‹¤í–ˆì–´ìš”
 	if (planet == node) {
 		ans = min(ans, dist);
 		return;
@@ -27,28 +27,30 @@ void dfs(int idx, int dist, int planet) {
 }
 
 int main() {
-	ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);
+	ios_base::sync_with_stdio(false); 
+	cin.tie(NULL); 
+	cout.tie(NULL);
 	
-	// ÀÔ·Â
+	// ì…ë ¥
 	cin >> node >> start;
 	for (int i = 0; i < node; i++)
 		for (int j = 0; j < node; j++)
 			cin >> arr[i][j];
 	
-	// DFS Ã³À½¿¡ µ¹±â Àü¿¡
+	// DFS ì²˜ìŒì— ëŒê¸° ì „ì—
 	visit[start] = true;
 
-	//ÇÃ·ÎÀÌµå ¿Í¼£
+	//í”Œë¡œì´ë“œ ì™€ìƒ¬
 	for (int k = 0; k < node; k++)
 		for (int i = 0; i < node; i++)
 			for (int j = 0; j < node; j++)
 				if (arr[i][j] > arr[i][k] + arr[k][j])
 					arr[i][j] = arr[i][k] + arr[k][j];
 	
-	//DFS ½ÇÇà
+	//DFS ì‹¤í–‰
 	dfs(start, 0, 1);
 
-	//Á¤´ä Ãâ·Â
+	//ì •ë‹µ ì¶œë ¥
 	cout << ans;
 
 	return 0;
