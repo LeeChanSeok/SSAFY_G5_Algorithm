@@ -5,28 +5,28 @@
 
 using namespace std;
 
-// ¸Ê »ı¼º
+// ë§µ ìƒì„±
 int map[201][201];
 
-// ¼Ö·ç¼Ç
+// ì†”ë£¨ì…˜
 int solution(int n, int s, int a, int b, vector<vector<int>> fares) {
 
-    // ¸Ê Á¤º¸ ÃÊ±âÈ­
+    // ë§µ ì •ë³´ ì´ˆê¸°í™”
     for (int i = 0; i < 201; i++) {
         for (int j = 0; j < 201; j++) {
-           map[i][j] = 987654321;
+           map[i][j] = 1e8;
             if (i == j)
                 map[i][j] = 0;
         }
     }
 
-    // ¸Ê¿¡ ÀÌµ¿ºñ¿ë ³Ö±â
+    // ë§µì— ì´ë™ë¹„ìš© ë„£ê¸°
     for (int i = 0; i < fares.size(); i++) {
         map[fares[i][0]][fares[i][1]] = fares[i][2];
         map[fares[i][1]][fares[i][0]] = fares[i][2];
     }
 
-    // ÇÃ·ÎÀÌµå ¿Í¼£À» »ç¿ë
+    // í”Œë¡œì´ë“œ ì™€ìƒ¬ì„ ì‚¬ìš©
     for (int i = 0; i <= n; i++) {
         for (int j = 0; j <= n; j++) {
             for (int k = 0; k <= n; k++) {
@@ -35,9 +35,9 @@ int solution(int n, int s, int a, int b, vector<vector<int>> fares) {
         }
     }
 
-    int answer = 987654321;
+    int answer = 1e8;
 
-    // ¸ğµç ¼ö Å½»ö ÃÖ¼Ò°ª Å½»ö
+    // ëª¨ë“  ìˆ˜ íƒìƒ‰ ìµœì†Œê°’ íƒìƒ‰
     for (int i = 0; i <= n; i++) {
         answer = min(answer, map[s][i] + map[i][a] + map[i][b]);
     }
