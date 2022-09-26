@@ -132,6 +132,15 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 </details>
 
 <details markdown="1">
+<summary><strong>📄 2020 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
+
+|          문제         |  레벨 |  유형  |
+| :-------------------: | :----: | :---------: |
+| [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)| Lv. 2 | |
+| [좌물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)| Lv. 3  | |
+</details>
+
+<details markdown="1">
 <summary><strong>📄 모의 SW 역량 테스트 (SWEA)</summary></strong>
 
 |          문제         |  레벨 |  유형  |
