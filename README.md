@@ -37,7 +37,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |7주차(09.05~09.11)|[등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)|[행렬과 연산](https://school.programmers.co.kr/learn/courses/30/lessons/118670)|[소가 길을 건너간 이유 6](https://www.acmicpc.net/problem/14466)|[치즈](https://www.acmicpc.net/problem/2638)|
 |8주차(09.12~09.18)|[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|[합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)|[우주 탐사선](https://www.acmicpc.net/problem/17182)|[컬러볼](https://www.acmicpc.net/problem/10800)|
 |9주차(09.20~09.26)|[순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)|[광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)|[카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415)|[성곽](https://www.acmicpc.net/problem/2234)|
-|9주차(09.27~10.03)|[괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|[좌물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)|[마법사 상어와 복제](https://www.acmicpc.net/problem/23290)|[어항정리](https://www.acmicpc.net/problem/23291)|
+|10주차(09.27~10.03)|[괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|[좌물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)|[마법사 상어와 복제](https://www.acmicpc.net/problem/23290)|[어항정리](https://www.acmicpc.net/problem/23291)|
 
 ## **💻 문제 목록**
 <details markdown="1">
