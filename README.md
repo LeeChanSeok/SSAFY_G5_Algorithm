@@ -37,7 +37,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |7주차(09.05~09.11)|[등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)|[행렬과 연산](https://school.programmers.co.kr/learn/courses/30/lessons/118670)|[소가 길을 건너간 이유 6](https://www.acmicpc.net/problem/14466)|[치즈](https://www.acmicpc.net/problem/2638)|
 |8주차(09.12~09.18)|[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|[합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)|[우주 탐사선](https://www.acmicpc.net/problem/17182)|[컬러볼](https://www.acmicpc.net/problem/10800)|
 |9주차(09.20~09.26)|[순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)|[광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)|[카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415)|[성곽](https://www.acmicpc.net/problem/2234)|
-|10주차(09.27~10.03)|[괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|[좌물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)|[마법사 상어와 복제](https://www.acmicpc.net/problem/23290)|[어항정리](https://www.acmicpc.net/problem/23291)|
+|10주차(09.27~10.03)|[괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|[wk물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)|[마법사 상어와 복제](https://www.acmicpc.net/problem/23290)|[어항정리](https://www.acmicpc.net/problem/23291)|
 
 ## **💻 문제 목록**
 <details markdown="1">
@@ -46,14 +46,14 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |          문제         |  레벨 |  유형  |
 | :-------------------: | :----: | :---------: |
 |  [괄호 추가하기](https://www.acmicpc.net/problem/16637)   |  G4   | Brute Force |
-|   [파이프 옮기기1](https://www.acmicpc.net/problem/17070)   |  G5   | DP, Graph |
+|  [파이프 옮기기1](https://www.acmicpc.net/problem/17070)   |  G5   | DP, Graph |
 |  [캐슬 디펜스](https://www.acmicpc.net/problem/17135)  |  G3   | Implement, Brute Force, Simulatcion |
-| [색종이 붙이기](https://www.acmicpc.net/problem/17136) |  G2   | Brute Force, Back Tracking |
-|   [⚾](https://www.acmicpc.net/problem/17281)   |  G4   | Implement, Brute Force |
+|  [색종이 붙이기](https://www.acmicpc.net/problem/17136) |  G2   | Brute Force, Back Tracking |
+|  [⚾](https://www.acmicpc.net/problem/17281)   |  G4   | Implement, Brute Force |
 | [인터프리터](https://www.acmicpc.net/problem/3954) |  G1   | Implement, Data Structure, Simulation, Stack  |
-|   [배열 돌리기 4](https://www.acmicpc.net/problem/17406)  |  G4   | Implement, Brute Force, Back Tracking |
-|   [게리맨더링](https://www.acmicpc.net/problem/17471)  |  G4   | Math, Graph, Brute Force, BFS, DFS, Combinatorics |
-|   [다리 만들기 2](https://www.acmicpc.net/problem/17472)  |  G1   | Implement, Graph, Brute Force, BFS, DFS, MST  |
+|  [배열 돌리기 4](https://www.acmicpc.net/problem/17406)  |  G4   | Implement, Brute Force, Back Tracking |
+|  [게리맨더링](https://www.acmicpc.net/problem/17471)  |  G4   | Math, Graph, Brute Force, BFS, DFS, Combinatorics |
+|  [다리 만들기 2](https://www.acmicpc.net/problem/17472)  |  G1   | Implement, Graph, Brute Force, BFS, DFS, MST  |
 </details>
 
 <details markdown="1">
@@ -71,7 +71,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |          문제         |  레벨 |  유형  |
 | :-------------------: | :----: | :---------: |
 |  [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)   |  G4   | Graph, BFS |
-|   [레이저 통신](https://www.acmicpc.net/problem/6087)   |  G3   |Graph, BFS, Dijkstra  |
+|  [레이저 통신](https://www.acmicpc.net/problem/6087)   |  G3   |Graph, BFS, Dijkstra  |
 |  [소수 경로](https://www.acmicpc.net/problem/1963)  |  G4   | Math, Graph, Number theory , BFS, Prime, Sieve of Eratosthenes|
 </details>
 
@@ -137,7 +137,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |          문제         |  레벨 |  유형  |
 | :-------------------: | :----: | :---------: |
 | [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)| Lv. 2 | |
-| [좌물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)| Lv. 3  | |
+| [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)| Lv. 3  | |
 </details>
 
 <details markdown="1">
