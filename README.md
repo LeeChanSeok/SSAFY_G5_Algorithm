@@ -61,8 +61,8 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 
 |          문제         |  레벨 |  유형  |
 | :-------------------: | :----: | :---------: |
-| [마법사 상어와 복제](https://www.acmicpc.net/problem/23290)|  G1   | |
-| [어항정리](https://www.acmicpc.net/problem/23291)|  P5   |  |
+| [마법사 상어와 복제](https://www.acmicpc.net/problem/23290)|  G1   | Implement, Simulatcion |
+| [어항정리](https://www.acmicpc.net/problem/23291)|  P5   | Implement, Simulatcion |
 </details>
 
 <details markdown="1">
