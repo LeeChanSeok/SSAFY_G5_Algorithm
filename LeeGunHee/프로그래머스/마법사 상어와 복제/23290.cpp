@@ -26,7 +26,6 @@ void copy_map(vector<int> a[][MAX], vector<int> b[][MAX]) {
  
 void move_fish(int time) {
     vector<int> new_fish[MAX][MAX];
-	// 이차원 배열 탐색, 현재 물고기 있으면 물고기마다 위치 이동 및 이동 방향 재설정
     for (int i = 1; i < MAX; i++) {
         for (int j = 1; j < MAX; j++) {
             for (int k = 0; k < fish[i][j].size(); k++) {
@@ -72,10 +71,10 @@ int shark_simulation(vector<int> route) {
     }
     return res;
 }
-// 상어 이동 시뮬레이션, 어디로 가는 것이 물고기를 최대로 먹을지
+
+
 void search_best_move(vector<int> route) {
     if (route.size() == 3) {
-    	// 3번 이동 했다면 물고기를 몇 마리 먹을 수 있는지 확인
         int eat = shark_simulation(route);
         if (eat > max_eat) {
             max_eat = eat;
@@ -90,7 +89,6 @@ void search_best_move(vector<int> route) {
     }
 }
  
-// 이동방향이 결정되었다면 상어 이동, 이동 중 물고기를 먹었다면 해당 위치에 냄새를 남김
 void move_shark(int time) {
     for (auto dir : shark_move) {
         shark_y += s_dy[dir];
@@ -125,19 +123,15 @@ int main() {
     cin >> shark_y >> shark_x;
     
     for (int i = 1; i <= S; i++) {
-    	//현재 물고기 위치 저장
         copy_map(fish, copy_fish);
         move_fish(i);
-        // 상어 이동 시뮬레이션을 위한 설정, 상어 이동
         max_eat = -1;
         vector<int> temp;
         search_best_move(temp);
         move_shark(i);
-        // 저장된 물고기 위치 복제
         paste_fish();
     }
-    
-	// 현재 남아 있는 물고기 수 
+
     int res = 0;
     for (int i = 1; i < MAX; i++) {
         for (int j = 1; j < MAX; j++) {
