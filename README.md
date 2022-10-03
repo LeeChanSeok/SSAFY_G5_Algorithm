@@ -38,6 +38,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |8주차(09.12~09.18)|[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|[합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)|[우주 탐사선](https://www.acmicpc.net/problem/17182)|[컬러볼](https://www.acmicpc.net/problem/10800)|
 |9주차(09.20~09.26)|[순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)|[광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)|[카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415)|[성곽](https://www.acmicpc.net/problem/2234)|
 |10주차(09.27~10.03)|[괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|[자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)|[마법사 상어와 복제](https://www.acmicpc.net/problem/23290)|[어항정리](https://www.acmicpc.net/problem/23291)|
+|11주차(10.04~10.10)|[문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|[기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061)|[드래곤 커브](https://www.acmicpc.net/problem/15685)|[스타트 택시](https://www.acmicpc.net/problem/19238)|
 
 ## **💻 문제 목록**
 <details markdown="1">
@@ -63,6 +64,8 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 | :-------------------: | :----: | :---------: |
 | [마법사 상어와 복제](https://www.acmicpc.net/problem/23290)|  G1   | Implement, Simulatcion |
 | [어항정리](https://www.acmicpc.net/problem/23291)|  P5   | Implement, Simulatcion |
+| [드래곤 커브](https://www.acmicpc.net/problem/15685)|  G4   |  |
+| [스타트 택시](https://www.acmicpc.net/problem/19238)|  G2   |  |
 </details>
 
 <details markdown="1">
@@ -138,6 +141,8 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 | :-------------------: | :----: | :---------: |
 | [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)| Lv. 2 | |
 | [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)| Lv. 3  | |
+| [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)| Lv. 2  | |
+| [기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061)| Lv. 3  | |
 </details>
 
 <details markdown="1">
