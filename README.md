@@ -48,7 +48,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 | :-------------------: | :----: | :---------: |
 |  [괄호 추가하기](https://www.acmicpc.net/problem/16637)   |  G4   | Brute Force |
 |  [파이프 옮기기1](https://www.acmicpc.net/problem/17070)   |  G5   | DP, Graph |
-|  [캐슬 디펜스](https://www.acmicpc.net/problem/17135)  |  G3   | Implement, Brute Force, Simulatcion |
+|  [캐슬 디펜스](https://www.acmicpc.net/problem/17135)  |  G3   | Implement, Brute Force, Simulation |
 |  [색종이 붙이기](https://www.acmicpc.net/problem/17136) |  G2   | Brute Force, Back Tracking |
 |  [⚾](https://www.acmicpc.net/problem/17281)   |  G4   | Implement, Brute Force |
 |  [인터프리터](https://www.acmicpc.net/problem/3954) |  G1   | Implement, Data Structure, Simulation, Stack  |
@@ -62,10 +62,10 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 
 |          문제         |  레벨 |  유형  |
 | :-------------------: | :----: | :---------: |
-| [마법사 상어와 복제](https://www.acmicpc.net/problem/23290)|  G1   | Implement, Simulatcion |
-| [어항정리](https://www.acmicpc.net/problem/23291)|  P5   | Implement, Simulatcion |
-| [드래곤 커브](https://www.acmicpc.net/problem/15685)|  G4   | Implement, Simulatcion |
-| [스타트 택시](https://www.acmicpc.net/problem/19238)|  G2   | Implement, Graph, BFS, Simulatcion |
+| [마법사 상어와 복제](https://www.acmicpc.net/problem/23290)|  G1   | Implement, Simulation |
+| [어항정리](https://www.acmicpc.net/problem/23291)|  P5   | Implement, Simulation |
+| [드래곤 커브](https://www.acmicpc.net/problem/15685)|  G4   | Implement, Simulation |
+| [스타트 택시](https://www.acmicpc.net/problem/19238)|  G2   | Implement, Graph, BFS, Simulation |
 </details>
 
 <details markdown="1">
@@ -92,9 +92,9 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |          문제         |  레벨 |  유형  |
 | :-------------------: | :----: | :---------: |
 | [미친 아두이노](https://www.acmicpc.net/problem/8972)   |  G4   | Implement, Simulatcion |
-| [스티커 붙이기](https://www.acmicpc.net/problem/18808)   |  G3   |Implement, Brute Force, Simulatcion |
+| [스티커 붙이기](https://www.acmicpc.net/problem/18808)   |  G3   |Implement, Brute Force, Simulation |
 | [소가 길을 건너간 이유 6](https://www.acmicpc.net/problem/14466) |  G4   | Graph, BFS, DFS |
-| [치즈](https://www.acmicpc.net/problem/2638) |  G3   | Implement, Graph, BFS, Simulatcion, DFS |
+| [치즈](https://www.acmicpc.net/problem/2638) |  G3   | Implement, Graph, BFS, Simulation, DFS |
 | [우주 탐사선](https://www.acmicpc.net/problem/17182)| G4 | Graph, Bit Masking, Back Tracking, Floyd-Warshall |
 | [컬러볼](https://www.acmicpc.net/problem/10800)| G3 | Implement, Sorting, prefix sum |
 | [성곽](https://www.acmicpc.net/problem/2234)| G3 | Graph, BFS, Bit Masking |
