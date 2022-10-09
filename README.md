@@ -64,8 +64,8 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 | :-------------------: | :----: | :---------: |
 | [마법사 상어와 복제](https://www.acmicpc.net/problem/23290)|  G1   | Implement, Simulatcion |
 | [어항정리](https://www.acmicpc.net/problem/23291)|  P5   | Implement, Simulatcion |
-| [드래곤 커브](https://www.acmicpc.net/problem/15685)|  G4   |  |
-| [스타트 택시](https://www.acmicpc.net/problem/19238)|  G2   |  |
+| [드래곤 커브](https://www.acmicpc.net/problem/15685)|  G4   | Implement, Simulatcion |
+| [스타트 택시](https://www.acmicpc.net/problem/19238)|  G2   | Implement, Graph, BFS, Simulatcion |
 </details>
 
 <details markdown="1">
