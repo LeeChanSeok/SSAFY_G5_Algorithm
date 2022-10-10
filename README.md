@@ -39,6 +39,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |9주차(09.20~09.26)|[순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)|[광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)|[카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415)|[성곽](https://www.acmicpc.net/problem/2234)|
 |10주차(09.27~10.03)|[괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|[자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)|[마법사 상어와 복제](https://www.acmicpc.net/problem/23290)|[어항정리](https://www.acmicpc.net/problem/23291)|
 |11주차(10.04~10.10)|[문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|[기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061)|[드래곤 커브](https://www.acmicpc.net/problem/15685)|[스타트 택시](https://www.acmicpc.net/problem/19238)|
+|12주차(10.11~10.17)|[보호 필름](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu)|[미생물 격리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl)|[원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)|[핀볼 게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo)|
 
 ## **💻 문제 목록**
 <details markdown="1">
@@ -154,4 +155,8 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 | [활주로 건설](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH)|  | |
 | [줄기세포 배양](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo)|  | |
 | [벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)|  | |
+| [보호 필름](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu)|  | |
+| [미생물 격리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl)|  | |
+| [원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)|  | |
+| [핀볼 게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo)|  | |
 </details>
