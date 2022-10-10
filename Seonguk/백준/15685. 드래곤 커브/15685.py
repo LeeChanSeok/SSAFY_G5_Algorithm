@@ -8,7 +8,7 @@ dx = [0, -1, 0, 1]
 dy = [1, 0, -1, 0]
 
 def make_dragon(dir, gen):
-    dragon_pos.append(dir) #시작 방향 넣기
+    dragon_pos.append(dir) # 시작 방향 넣기
     for i in range(gen):
         rev = reversed(dragon_pos) 
         for j in rev: # 현재 리스트에 들어간 방향을 거꾸로 돌면서
