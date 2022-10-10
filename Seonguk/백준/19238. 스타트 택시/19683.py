@@ -21,7 +21,7 @@ for _ in range(M):
     q=deque()
     q.append((sx,sy,0))
     visited=[[False]*N for _ in range(N)]
-    candi=[]    # 우선순위를 정하기 위한 배열
+    candi=[] # 우선순위를 정하기 위한 배열
     id=0
     while q:
         isArrive=False
