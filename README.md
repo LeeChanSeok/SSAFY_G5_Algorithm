@@ -90,6 +90,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 
 <details markdown="1">
 <summary><strong>📄 ★직접 코테 광탈하면서 모은 문제들☆ (백준)</summary></strong>
+
 |          문제         |  레벨 |  유형  |
 | :-------------------: | :----: | :---------: |
 | [미친 아두이노](https://www.acmicpc.net/problem/8972)   |  G4   | Implement, Simulatcion |
@@ -103,6 +104,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 
 <details markdown="1">
 <summary><strong>📄 IT기업 및 대기업 계열사 코테보면서 비슷했던 문제들 (백준)</summary></strong>
+
 |          문제         |  레벨 |  유형  |
 | :-------------------: | :----: | :---------: |
 | [하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)|   | |
@@ -111,6 +113,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 
 <details markdown="1">
 <summary><strong>📄 2022 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
+
 |          문제         |  레벨 |  유형  |
 | :-------------------: | :----: | :---------: |
 | [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)| Lv.2 | |
