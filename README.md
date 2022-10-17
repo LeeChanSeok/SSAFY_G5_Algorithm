@@ -40,6 +40,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |10주차(09.27~10.03)|[괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|[자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)|[마법사 상어와 복제](https://www.acmicpc.net/problem/23290)|[어항정리](https://www.acmicpc.net/problem/23291)|
 |11주차(10.04~10.10)|[문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|[기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061)|[드래곤 커브](https://www.acmicpc.net/problem/15685)|[스타트 택시](https://www.acmicpc.net/problem/19238)|
 |12주차(10.11~10.17)|[보호 필름](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu)|[미생물 격리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl)|[원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)|[핀볼 게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo)|
+|13주차(10.18~10.24)|[외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062)|[블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)|[하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)|[파티](https://www.acmicpc.net/problem/1238)|
 
 ## **💻 문제 목록**
 <details markdown="1">
@@ -102,6 +103,15 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 </details>
 
 <details markdown="1">
+<summary><strong>📄 IT기업 및 대기업 계열사 코테보면서 비슷했던 문제들(https://www.acmicpc.net/workbook/view/8708) (백준)</summary></strong>
+
+|          문제         |  레벨 |  유형  |
+| :-------------------: | :----: | :---------: |
+|[하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)|   | |
+|[파티](https://www.acmicpc.net/problem/1238)|  | |
+</details>
+
+<details markdown="1">
 <summary><strong>📄 2022 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
 
 |          문제         |  레벨 |  유형  |
@@ -144,6 +154,8 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 | [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)| Lv. 3  | |
 | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)| Lv. 2  | |
 | [기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061)| Lv. 3  | |
+|[외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062)| Lv. 3  | |
+|[블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)| Lv. 3  | |
 </details>
 
 <details markdown="1">
