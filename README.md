@@ -103,7 +103,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 </details>
 
 <details markdown="1">
-<summary><strong>📄 IT기업 및 대기업 계열사 코테보면서 비슷했던 문제들(https://www.acmicpc.net/workbook/view/8708) (백준)</summary></strong>
+<summary><strong>📄 [IT기업 및 대기업 계열사 코테보면서 비슷했던 문제들]((https://www.acmicpc.net/workbook/view/8708)) (백준)</summary></strong>
 
 |          문제         |  레벨 |  유형  |
 | :-------------------: | :----: | :---------: |
