@@ -108,8 +108,8 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 
 |          문제         |  레벨 |  유형  |
 | :-------------------: | :----: | :---------: |
-| [하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)| G4  | |
-| [파티](https://www.acmicpc.net/problem/1238)| G3 | |
+| [하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)| G4  | Brute Force |
+| [파티](https://www.acmicpc.net/problem/1238)| G3 | Graph, Dijkstra |
 | [공유기 설치](https://www.acmicpc.net/problem/2110)| G4 | |
 | [탑 보기](https://www.acmicpc.net/problem/22866)| G3 | |
 </details>
