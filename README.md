@@ -41,6 +41,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |11주차(10.04~10.10)|[문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|[기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061)|[드래곤 커브](https://www.acmicpc.net/problem/15685)|[스타트 택시](https://www.acmicpc.net/problem/19238)|
 |12주차(10.11~10.17)|[보호 필름](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu)|[미생물 격리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl)|[원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)|[핀볼 게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo)|
 |13주차(10.18~10.24)|[외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062)|[블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)|[하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)|[파티](https://www.acmicpc.net/problem/1238)|
+|14주차(10.25~10.31)|[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|[길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892)|[공유기 설치](https://www.acmicpc.net/problem/2110)|[탑 보기](https://www.acmicpc.net/problem/22866)|
 
 ## **💻 문제 목록**
 <details markdown="1">
@@ -109,6 +110,8 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 | :-------------------: | :----: | :---------: |
 | [하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)| G4  | |
 | [파티](https://www.acmicpc.net/problem/1238)| G3 | |
+| [공유기 설치](https://www.acmicpc.net/problem/2110)| G4 | |
+| [탑 보기](https://www.acmicpc.net/problem/22866)| G3 | |
 </details>
 
 <details markdown="1">
