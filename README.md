@@ -42,6 +42,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |12주차(10.11~10.17)|[보호 필름](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu)|[미생물 격리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl)|[원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)|[핀볼 게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo)|
 |13주차(10.18~10.24)|[외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062)|[블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)|[하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)|[파티](https://www.acmicpc.net/problem/1238)|
 |14주차(10.25~10.31)|[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|[길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892)|[공유기 설치](https://www.acmicpc.net/problem/2110)|[탑 보기](https://www.acmicpc.net/problem/22866)|
+|15주차(11.01~11.07)|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)|[후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)|[매칭 점수](https://school.programmers.co.kr/learn/courses/30/lessons/42893)|[블록 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42894)|
 
 ## **💻 문제 목록**
 <details markdown="1">
@@ -110,8 +111,8 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 | :-------------------: | :----: | :---------: |
 | [하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)| G4  | Brute Force |
 | [파티](https://www.acmicpc.net/problem/1238)| G3 | Graph, Dijkstra |
-| [공유기 설치](https://www.acmicpc.net/problem/2110)| G4 | |
-| [탑 보기](https://www.acmicpc.net/problem/22866)| G3 | |
+| [공유기 설치](https://www.acmicpc.net/problem/2110)| G4 | Binary search, Parametric Search |
+| [탑 보기](https://www.acmicpc.net/problem/22866)| G3 | Data Structure, Stack|
 </details>
 
 <details markdown="1">
@@ -157,8 +158,21 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 | [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)| Lv. 3  | |
 | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)| Lv. 2  | |
 | [기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061)| Lv. 3  | |
-|[외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062)| Lv. 3  | |
-|[블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)| Lv. 3  | |
+| [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062)| Lv. 3  | |
+| [블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)| Lv. 3  | |
+</details>
+
+<details markdown="1">
+<summary><strong>📄 2019 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
+
+|          문제         |  레벨 |  유형  |
+| :-------------------: | :----: | :---------: |
+| [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)| Lv. 1 | |
+| [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)| Lv. 2 | |
+| [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)| Lv. 2 | |
+| [매칭 점수](https://school.programmers.co.kr/learn/courses/30/lessons/42893)| Lv. 3 | |
+| [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892)| Lv. 3  | |
+| [블록 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42894)| Lv. 4 | |
 </details>
 
 <details markdown="1">
