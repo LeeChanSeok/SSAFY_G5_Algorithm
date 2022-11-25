@@ -43,8 +43,10 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |13주차(10.18~10.24)|[외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062)|[블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)|[하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)|[파티](https://www.acmicpc.net/problem/1238)|
 |14주차(10.25~10.31)|[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|[길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892)|[공유기 설치](https://www.acmicpc.net/problem/2110)|[탑 보기](https://www.acmicpc.net/problem/22866)|
 |15주차(11.01~11.07)|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)|[후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)|[매칭 점수](https://school.programmers.co.kr/learn/courses/30/lessons/42893)|[블록 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42894)|
-|16주차(11.08~11.14)|||||
-|17주차(11.15~11.21)|[좋다](https://www.acmicpc.net/problem/1253)|[가희와 탑](https://www.acmicpc.net/problem/24337)|||
+|16주차(11.08~11.14)|[다트게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|[캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|[셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)|[자동완성](https://school.programmers.co.kr/learn/courses/30/lessons/17685)|
+|17주차(11.15~11.21)|[좋다](https://www.acmicpc.net/problem/1253)|[가희와 탑](https://www.acmicpc.net/problem/24337)|[줄세우기(https://www.acmicpc.net/problem/2631)|
+[고층건물](https://www.acmicpc.net/problem/1027)|
+|18주차(11.22~11.28)||[비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)|[프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)|[뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|[추석 트래픽](https://school.programmers.co.kr/learn/courses/30/lessons/17676)|
 
 ## **💻 문제 목록**
 <details markdown="1">
