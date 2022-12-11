@@ -181,6 +181,21 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 </details>
 
 <details markdown="1">
+<summary><strong>📄 2018 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
+
+|          문제         |  레벨 |  유형  |
+| :-------------------: | :----: | :---------: |
+| [다트게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)| Lv. 1 | |
+| [비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)| Lv. 1 | |
+|[캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)| Lv. 2 | |
+|[프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)| Lv. 2 | |
+|[뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)| Lv. 2 | |
+|[추석 트래픽](https://school.programmers.co.kr/learn/courses/30/lessons/17676)| Lv. 3 | |
+|[셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)| Lv. 3 | |
+|[자동완성](https://school.programmers.co.kr/learn/courses/30/lessons/17685)| Lv. 4 | |
+</details>
+
+<details markdown="1">
 <summary><strong>📄 모의 SW 역량 테스트 (SWEA)</summary></strong>
 
 |          문제         |  레벨 |  유형  |
