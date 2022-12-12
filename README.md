@@ -46,6 +46,8 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |16주차(11.08~11.14)|[다트게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|[캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|[셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)|[자동완성](https://school.programmers.co.kr/learn/courses/30/lessons/17685)|
 |17주차(11.15~11.21)|[좋다](https://www.acmicpc.net/problem/1253)|[가희와 탑](https://www.acmicpc.net/problem/24337)|[줄세우기](https://www.acmicpc.net/problem/2631)|[고층건물](https://www.acmicpc.net/problem/1027)|
 |18주차(11.22~11.28)|[비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)|[프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)|[뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|[추석 트래픽](https://school.programmers.co.kr/learn/courses/30/lessons/17676)|
+|19주차(11.29~12.05)|||||
+|20주차(12.06~12.12)|[n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)|[파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)|[압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)|[방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)|
 
 ## **💻 문제 목록**
 <details markdown="1">
@@ -190,6 +192,10 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |[캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)| Lv. 2 | |
 |[프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)| Lv. 2 | |
 |[뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)| Lv. 2 | |
+|[n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)| Lv. 2 | |
+|[파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)| Lv. 2 | |
+|[압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)| Lv. 2 | |
+|[방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)| Lv. 2 | |
 |[추석 트래픽](https://school.programmers.co.kr/learn/courses/30/lessons/17676)| Lv. 3 | |
 |[셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)| Lv. 3 | |
 |[자동완성](https://school.programmers.co.kr/learn/courses/30/lessons/17685)| Lv. 4 | |
