@@ -49,7 +49,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |19주차(11.29~12.05)|||||
 |20주차(12.06~12.12)|||||
 |20주차(12.13~12.19)|[n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)|[파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)|[압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)|[방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)|
-|21주차(12.20~12.26)|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|[가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)|[가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)[위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|[큐빙](https://www.acmicpc.net/problem/5373)|
+|21주차(12.20~12.26)|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|[가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)|[가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|[큐빙](https://www.acmicpc.net/problem/5373)|
 
 ## **💻 문제 목록**
 <details markdown="1">
