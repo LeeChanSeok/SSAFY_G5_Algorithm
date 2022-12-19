@@ -49,6 +49,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |19주차(11.29~12.05)|||||
 |20주차(12.06~12.12)|||||
 |20주차(12.13~12.19)|[n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)|[파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)|[압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)|[방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)|
+|21주차(12.20~12.26)|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|[가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)|[가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)[위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|[큐빙](https://www.acmicpc.net/problem/5373)|
 
 ## **💻 문제 목록**
 <details markdown="1">
@@ -76,6 +77,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 | [어항정리](https://www.acmicpc.net/problem/23291)|  P5   | Implement, Simulation |
 | [드래곤 커브](https://www.acmicpc.net/problem/15685)|  G4   | Implement, Simulation |
 | [스타트 택시](https://www.acmicpc.net/problem/19238)|  G2   | Implement, Graph, BFS, Simulation |
+|[큐빙](https://www.acmicpc.net/problem/5373)| P5 | |
 </details>
 
 <details markdown="1">
@@ -201,6 +203,19 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |[셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)| Lv. 3 | |
 |[자동완성](https://school.programmers.co.kr/learn/courses/30/lessons/17685)| Lv. 4 | |
 </details>
+
+<details markdown="1">
+<summary><strong>📄 프로그래머스 </summary></strong>
+
+|          문제         |  레벨 |  유형  |
+| :-------------------: | :----: | :---------: |
+| [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)| Lv. 3 | DFS/BFS  |
+| [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)| Lv. 3 | 그래프 |
+| [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)|Lv. 2 | 정렬 |
+| [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)| Lv. 2 | 해시 |
+
+</details>
+
 
 <details markdown="1">
 <summary><strong>📄 모의 SW 역량 테스트 (SWEA)</summary></strong>
