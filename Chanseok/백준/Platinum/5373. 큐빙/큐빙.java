@@ -5,7 +5,7 @@ import java.io.OutputStreamWriter;
 
 public class Main {
 
-  static int n = 3;
+  	static int n = 3;
 	static final int R = n*4, C = n*3;
 
 	public static void main(String[] args) throws Exception {
