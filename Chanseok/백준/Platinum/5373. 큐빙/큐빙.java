@@ -40,7 +40,7 @@ public class Main {
 
 	private static void rotate(String command, char[][] cuve) {
 
-		if (command.equals("U-"))		Uminus(cuve);
+		if (command.equals("U-"))	Uminus(cuve);
 		else if (command.equals("U+"))	Uplus(cuve);
 		else if (command.equals("D-"))	Dminus(cuve);
 		else if (command.equals("D+"))	Dplus(cuve);
@@ -134,7 +134,7 @@ public class Main {
 		}
 	}
   
-  //U-
+  	//U-
 	private static void Uminus(char[][] cuve) {
 		anticlock_rotate(cuve, n, n);
 		
@@ -154,7 +154,7 @@ public class Main {
 		}
 	}
 	
-  //U+
+  	//U+
 	private static void Uplus(char[][] cuve) {
 		clock_rotate(cuve, n, n);
 		
@@ -175,7 +175,7 @@ public class Main {
 
 	}
 
-  //D-
+  	//D-
 	private static void Dminus(char[][] cuve) {
 		anticlock_rotate(cuve, 3*n, n);
 		
@@ -196,7 +196,7 @@ public class Main {
 		}
 	}
 	
-  //D+
+  	//D+
 	private static void Dplus(char[][] cuve) {
 		clock_rotate(cuve, 3*n, n);
 		
@@ -217,7 +217,7 @@ public class Main {
 
 	}
 	
-  //F-
+ 	//F-
 	private static void Fminus(char[][] cuve) {
 		anticlock_rotate(cuve, 2*n, n);
 		
@@ -242,7 +242,7 @@ public class Main {
 		
 	}
 	
-  //F+
+  	//F+
 	private static void Fplus(char[][] cuve) {
 		clock_rotate(cuve, 2*n, n);
 		
@@ -267,7 +267,7 @@ public class Main {
 
 	}
 
-  //B-
+  	//B-
 	private static void Bminus(char[][] cuve) {
 		anticlock_rotate(cuve, 0, n);
 		
@@ -317,7 +317,7 @@ public class Main {
 
 	}
 	
-  //L-
+  	//L-
 	private static void Lminus(char[][] cuve) {
 		anticlock_rotate(cuve, n, 0);
 		
@@ -338,7 +338,7 @@ public class Main {
 		
 	}
 	
-  //L+
+  	//L+
 	private static void Lplus(char[][] cuve) {
 		clock_rotate(cuve, n, 0);
 		
@@ -359,7 +359,7 @@ public class Main {
 
 	}
 	
-  //R-
+  	//R-
 	private static void Rminus(char[][] cuve) {
 		anticlock_rotate(cuve, n, 2*n);
 		
@@ -379,6 +379,7 @@ public class Main {
 		}
 	}
 	
+	//R+
 	private static void Rplus(char[][] cuve) {
 		clock_rotate(cuve, n, 2*n);
 		
