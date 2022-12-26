@@ -50,6 +50,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |20주차(12.06~12.12)|||||
 |20주차(12.13~12.19)|[n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)|[파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)|[압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)|[방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)|
 |21주차(12.20~12.26)|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|[가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)|[가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) / [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|[큐빙](https://www.acmicpc.net/problem/5373)|
+|22주차(12.27~01.02)|[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)|[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|[표편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303) |[미로탈출](https://school.programmers.co.kr/learn/courses/30/lessons/81304)|
 
 ## **💻 문제 목록**
 <details markdown="1">
@@ -202,6 +203,16 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |[추석 트래픽](https://school.programmers.co.kr/learn/courses/30/lessons/17676)| Lv. 3 | |
 |[셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)| Lv. 3 | |
 |[자동완성](https://school.programmers.co.kr/learn/courses/30/lessons/17685)| Lv. 4 | |
+</details>
+
+<details markdown="1">
+<summary><strong>📄 2021 카카오 채용연계형 인턴십 (프로그래머스)</summary></strong>
+|          문제         |  레벨 |  유형  |
+| :-------------------: | :----: | :---------: |
+|[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)| Lv. 1 | |
+|[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)| Lv. 2 | |
+|[표편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303) | Lv. 3 | |
+|[미로탈출](https://school.programmers.co.kr/learn/courses/30/lessons/81304)| Lv. 4 | |
 </details>
 
 <details markdown="1">
