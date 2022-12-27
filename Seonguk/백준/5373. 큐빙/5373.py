@@ -1,4 +1,4 @@
-#큐빙
+#큐빙(p5) 
 
 def uTurn(dir):
     temp = cube['L'][0][:]
