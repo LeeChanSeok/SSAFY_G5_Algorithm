@@ -1,0 +1,60 @@
+from collections import deque
+
+def solution(n, k, cmd):
+    pos={}
+    answer=['O']*n
+    
+    #현재 노드의 위, 아래 노드 위치 저장
+    for i in range(n):
+        if i == 0:
+            pos[i]=[n-1,i+1]
+        elif i == n-1:
+            pos[i]=[i-1, 0]
+        else:
+            pos[i]=[i-1,i+1]
+    
+    stack=deque()
+    now=k
+    
+    for c in cmd:
+        op=c[0]
+        if op == 'U':
+            z,num=c.split()
+            num=int(num)
+            # pos 정보를 바탕으로 위로 올라가면서 노드 선택
+            for i in range(num):
+                now=pos[now][0]
+        elif op == 'D':
+            z,num=c.split()
+            num=int(num)
+            # pos 정보를 바탕으로 아래로 내려가면서 노드 선택
+            for i in range(num):
+                now=pos[now][1]
+        elif op == 'C':
+            prevN, nextN=pos[now][0], pos[now][1]
+             # 삭제될 노드의 위, 아래 노드의 pos 정보 바꿔줌
+            pos[nextN][0]=prevN
+            pos[prevN][1]=nextN
+            # 삭제된 노드 정보 저장
+            stack.append((now, pos[now]))
+            temp=pos[now]
+            del pos[now] # 현재 노드 pos에서 삭제
+            answer[now]='X'
+            
+            # 삭제된 노드가 첫노드 or 마지막 노드면 pos 정보 바꿔줌
+            if temp[1] == 0:
+                now=temp[0]
+            else:
+                now=temp[1]
+        # 최근에 삭제된 노드 다시 추가하기
+        elif op == 'Z':
+            node, link=stack.pop()
+            prevN, nextN=link
+            pos[node]=[prevN, nextN]
+            pos[prevN][1]=node
+            pos[nextN][0]=node
+            answer[node]='O'
+        
+    answer="".join(answer)
+    
+    return answer
