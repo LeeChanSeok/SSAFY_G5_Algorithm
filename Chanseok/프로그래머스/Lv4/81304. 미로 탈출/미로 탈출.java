@@ -40,7 +40,6 @@ class Solution {
             trap_idx.put(traps[i], i);
         }
 
-
         answer = bfs(start, end, n, original_graph, reverse_graph, traps, trap_idx);
 
         return answer;
@@ -75,7 +74,6 @@ class Solution {
                 }
             } 
 
-
             // original
             edges = original_graph[cur.num];
             for(int[] edge : edges) {
@@ -91,7 +89,7 @@ class Solution {
                     if(temp[0] == cur.trap && temp[1] <= (cur.dist + dist)) continue;
                 }
 
-visit.put(to, new int[] {cur.trap, cur.dist + dist});
+		visit.put(to, new int[] {cur.trap, cur.dist + dist});
                 
                 pq.offer(new Node(to, cur.dist + dist, cur.trap));
 
@@ -112,7 +110,7 @@ visit.put(to, new int[] {cur.trap, cur.dist + dist});
                     if(temp[0] == cur.trap && temp[1] <= (cur.dist + dist)) continue;
                 }
 
-visit.put(to, new int[] {cur.trap, cur.dist + dist});
+		visit.put(to, new int[] {cur.trap, cur.dist + dist});
                 
                 pq.offer(new Node(to, cur.dist + dist, cur.trap));
 
@@ -122,7 +120,6 @@ visit.put(to, new int[] {cur.trap, cur.dist + dist});
 
         return -1;
     }
-
 
     private boolean visitTrap(int num, int to) {
         if((num & (1 << to)) != 0) return true;
