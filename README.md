@@ -52,6 +52,8 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |21주차(12.20~12.26)|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|[가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)|[가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) / [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|[큐빙](https://www.acmicpc.net/problem/5373)|
 |22주차(12.27~01.02)|[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)|[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|[표편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303) |[미로탈출](https://school.programmers.co.kr/learn/courses/30/lessons/81304)|
 |23주차(01.03~01.09)|[수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)|[보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)|[경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) |[동굴 탐험](https://school.programmers.co.kr/learn/courses/30/lessons/67260)|
+|24주차(01.10~01.06)|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)|[징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) |[호텔 방 배정](https://school.programmers.co.kr/learn/courses/30/lessons/64063)|
+
 
 ## **💻 문제 목록**
 <details markdown="1">
@@ -227,6 +229,18 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 | [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | Lv. 3 | |
 | [동굴 탐험](https://school.programmers.co.kr/learn/courses/30/lessons/67260)| Lv. 4 | |
 </details>
+
+<details markdown="1">
+<summary><strong>📄 2019 카카오 개발자 겨울 인턴십</summary></strong>
+
+|          문제         |  레벨 |  유형  |
+| :-------------------: | :----: | :---------: |
+| [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)| Lv. 2 | |
+| [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)| Lv. 3 | |
+| [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | Lv. 3 | |
+| [호텔 방 배정](https://school.programmers.co.kr/learn/courses/30/lessons/64063)| Lv. 4 | |
+</details>
+
 
 <details markdown="1">
 <summary><strong>📄 프로그래머스 </summary></strong>
