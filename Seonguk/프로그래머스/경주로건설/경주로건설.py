@@ -25,3 +25,4 @@ def solution(board):
         return result[-1][-1]
             
     return min(bfs(0,0,0,0), bfs(0,0,0,1))
+
