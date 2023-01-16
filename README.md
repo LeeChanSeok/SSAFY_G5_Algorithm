@@ -53,7 +53,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 |22주차(12.27~01.02)|[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)|[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|[표편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303) |[미로탈출](https://school.programmers.co.kr/learn/courses/30/lessons/81304)|
 |23주차(01.03~01.09)|[수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)|[보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)|[경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) |[동굴 탐험](https://school.programmers.co.kr/learn/courses/30/lessons/67260)|
 |24주차(01.10~01.16)|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)|[징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) |[호텔 방 배정](https://school.programmers.co.kr/learn/courses/30/lessons/64063)|
-
+|25주차(01.17~01.23)|[택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)|[이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)|[표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367) |[표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)|
 
 ## **💻 문제 목록**
 <details markdown="1">
@@ -128,6 +128,18 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 | [좋다](https://www.acmicpc.net/problem/1253)| G4 | |
 | [가희와 탑](https://www.acmicpc.net/problem/24337)| G3||
 </details>
+
+<details markdown="1">
+<summary><strong>📄 2022 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
+
+|          문제         |  레벨 |  유형  |
+| :-------------------: | :----: | :---------: |
+| [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)| Lv.2 | |
+| [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)| Lv.2 | |
+| [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367) | Lv.3 | |
+| [표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)| Lv.3 | |
+</details>
+
 
 <details markdown="1">
 <summary><strong>📄 2022 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
