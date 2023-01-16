@@ -130,7 +130,7 @@ git commit -m "[BOJ] 1. Hello World / 브론즈5 " -m "https://www.acmicpc.net/p
 </details>
 
 <details markdown="1">
-<summary><strong>📄 2022 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
+<summary><strong>📄 2023 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
 
 |          문제         |  레벨 |  유형  |
 | :-------------------: | :----: | :---------: |
